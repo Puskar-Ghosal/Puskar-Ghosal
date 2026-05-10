@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently student of Computational Mathematics and Data Science branch in NIT Rourkela ( 2027 batch)<br>My skills are : Python , c++ , numpy , pandas , Matplotlib , scikit-learn , TensorFlow <br>I waana do data analyst or data science role in a company <br>I love to work with data and creating model <br>My hobby is to be a teacher 
+I am currently pursuing Computational Mathematics and Data Science at NIT Rourkela (2027 Batch). I am passionate about Data Science, Machine Learning, and solving real-world problems using data and mathematics.
+
+I have experience working with Python, C++, NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow. I enjoy analyzing data, building machine learning models, and exploring patterns that help in making better decisions.
+
+I am actively preparing for Data Analyst and Data Science roles and continuously improving my skills in Machine Learning, Deep Learning, Data Structures & Algorithms, and Statistical Analysis.
+
+Apart from technology, I also enjoy teaching and simplifying complex concepts, which has helped me develop strong communication and problem-solving skills.
+
+I am always eager to learn new technologies, work on impactful projects, and grow as a data-driven problem solver.
 
 
 ## 🌐 Socials:
