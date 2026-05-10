@@ -1,13 +1,13 @@
 # 💫 About Me:
-I am currently pursuing Computational Mathematics and Data Science at NIT Rourkela (2027 Batch). I am passionate about Data Science, Machine Learning, and solving real-world problems using data and mathematics.
+I am currently studying Computational Mathematics and Data Science at NIT Rourkela, graduating in 2027. I have a strong interest in Data Science, Machine Learning, and using data and math to tackle real-world issues.
 
-I have experience working with Python, C++, NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow. I enjoy analyzing data, building machine learning models, and exploring patterns that help in making better decisions.
+I have worked with Python, C++, NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow. I like analyzing data, creating machine learning models, and finding patterns that aid in making better decisions.
 
-I am actively preparing for Data Analyst and Data Science roles and continuously improving my skills in Machine Learning, Deep Learning, Data Structures & Algorithms, and Statistical Analysis.
+I am preparing for roles as a Data Analyst and in Data Science while consistently improving my skills in Machine Learning, Deep Learning, Data Structures and Algorithms, and Statistical Analysis.
 
-Apart from technology, I also enjoy teaching and simplifying complex concepts, which has helped me develop strong communication and problem-solving skills.
+In addition to technology, I enjoy teaching and breaking down complex ideas. This passion has helped me develop good communication and problem-solving skills.
 
-I am always eager to learn new technologies, work on impactful projects, and grow as a data-driven problem solver.
+I am always eager to learn new technologies, engage in meaningful projects, and grow as a data-focused problem solver.
 
 
 ## 🌐 Socials:
